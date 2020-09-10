@@ -1,0 +1,41 @@
+<html>
+  <head><title>新冠疫情二次数据平台</title><head>
+  <body>
+    <h1>新冠疫情二次数据平台</h1>
+    <h2>数据来源：<a href="https://news.qq.com/zt2020/page/feiyan.htm#/?nojump=1" target="_blank">腾讯疫情数据平台</a></h2>
+    <h2>本页面更新时间：%s</h2>
+    <p>本页面更新频率：每半小时更新一次</p>
+    <table border="1" class="dataframe">
+      <thead>
+        <tr style="text-align: center;">
+          <th>地区范围</th>
+          <th colspan="2">人数分布</th>
+          <th colspan="2">历史数据</th>
+          <th>当前统计</th>
+          <th>更新时间</th>
+        </tr>
+      </thead>
+      <tbody>
+        <tr align="center">
+          <td>中国</td>
+          <td><a href="http://49.234.68.36/xhj/projects/small_projects/covid_19_spider_visualization/China-Detail.html" target="_blank">数据</a></td>
+          <td><a href="http://49.234.68.36/xhj/projects/small_projects/covid_19_spider_visualization/China-Detail-Map.html" target="_blank">地图</a></td>
+          <td><a href="http://49.234.68.36/xhj/projects/small_projects/covid_19_spider_visualization/China-History.html" target="_blank">数据</a></td>
+          <td><a href="http://49.234.68.36/xhj/projects/small_projects/covid_19_spider_visualization/China-History-Visualization.html" target="_blank">图表</a></td>
+          <td><a href="http://49.234.68.36/xhj/projects/small_projects/covid_19_spider_visualization/China-Statistic.html" target="_blank">数据</a></td>
+          <td>%s</td>
+      </tr>
+      <tr align="center">
+          <td>全球</td>
+          <td><a href="http://49.234.68.36/xhj/projects/small_projects/covid_19_spider_visualization/Global-Detail.html" target="_blank">各国详细数据</a><br /><a href="http://49.234.68.36/xhj/projects/small_projects/covid_19_spider_visualization/Countries-Detail.html" target="_blank">各国统计数据</a></td>
+          <td><a href="http://49.234.68.36/xhj/projects/small_projects/covid_19_spider_visualization/Global-Detail-Map.html" target="_blank">地图</a></td>
+          <td><a href="http://49.234.68.36/xhj/projects/small_projects/covid_19_spider_visualization/Global-History.html" target="_blank">全球数据</a><br />%s</td>
+          <td><a href="http://49.234.68.36/xhj/projects/small_projects/covid_19_spider_visualization/Country-History-Visualization.html" target="_blank">各国图表</a><br /><a href="http://49.234.68.36/xhj/projects/small_projects/covid_19_spider_visualization/Global-History-Visualization.html" target="_blank">全球图表</a></td>
+          <td><a href="http://49.234.68.36/xhj/projects/small_projects/covid_19_spider_visualization/Global-Statistic.html" target="_blank">数据</a></td>
+          <td>%s</td>
+       </tr>
+      </tbody>
+    </table>
+    <p><a href="http://49.234.68.36/xhj/projects/small_projects/covid_19_spider_visualization/report.pdf" target="_blank">研究报告</a></p>
+  </body>
+</html>
