@@ -37,5 +37,6 @@
       </tbody>
     </table>
     <p><a href="http://49.234.68.36/xhj/projects/small_projects/covid_19_spider_visualization/report.pdf" target="_blank">研究报告</a></p>
+    <p><a href="https://github.com/XHJ-TS9527/Projects/tree/master/covid_19_data_spider_and_visualization">GitHub项目文件地址</a></p>
   </body>
 </html>
